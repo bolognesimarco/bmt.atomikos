@@ -1,0 +1,59 @@
+14-09-04 18:11:22,511 [main] Logfile closed: C:\Fidevita\mioworkspace\mio\bmt.atomikos\.\tmlog-1.log
+14-09-04 18:11:22,964 [main] Coordinator not recoverable: 10.13.64.118.tm0000100001
+14-09-04 18:11:24,461 [main] oracle: refreshed XAResource
+14-09-04 18:18:36,115 [main] Starting read of logfile C:\Fidevita\mioworkspace\mio\bmt.atomikos\.\tmlog0.log
+14-09-04 18:18:36,193 [main] Local heuristic termination of coordinator 10.13.64.118.tm0000100001 with state COMMITTING
+14-09-04 18:18:36,193 [main] Local heuristic termination of coordinator 10.13.64.118.tm0000100001 with state COMMITTING
+14-09-04 18:18:36,209 [main] Done read of logfile
+14-09-04 18:18:36,209 [main] Logfile closed: C:\Fidevita\mioworkspace\mio\bmt.atomikos\.\tmlog0.log
+14-09-04 18:18:36,318 [main] Coordinator not recoverable: 10.13.64.118.tm0000100002
+14-09-04 18:18:36,567 [main] oracle: refreshed XAResource
+14-09-04 18:19:04,789 [main] Starting read of logfile C:\Fidevita\mioworkspace\mio\bmt.atomikos\.\tmlog1.log
+14-09-04 18:19:04,789 [main] Done read of logfile
+14-09-04 18:19:04,789 [main] Logfile closed: C:\Fidevita\mioworkspace\mio\bmt.atomikos\.\tmlog1.log
+14-09-04 18:19:04,914 [main] Coordinator not recoverable: 10.13.64.118.tm0000100003
+14-09-04 18:19:05,148 [main] oracle: refreshed XAResource
+14-09-04 18:19:47,439 [main] Starting read of logfile C:\Fidevita\mioworkspace\mio\bmt.atomikos\.\tmlog2.log
+14-09-04 18:19:47,486 [main] Done read of logfile
+14-09-04 18:19:47,486 [main] Logfile closed: C:\Fidevita\mioworkspace\mio\bmt.atomikos\.\tmlog2.log
+14-09-04 18:19:47,595 [main] Coordinator not recoverable: 10.13.64.118.tm0000100004
+14-09-04 18:19:47,829 [main] oracle: refreshed XAResource
+14-09-04 18:20:20,168 [main] Starting read of logfile C:\Fidevita\mioworkspace\mio\bmt.atomikos\.\tmlog3.log
+14-09-04 18:20:20,215 [main] Done read of logfile
+14-09-04 18:20:20,215 [main] Logfile closed: C:\Fidevita\mioworkspace\mio\bmt.atomikos\.\tmlog3.log
+14-09-04 18:20:20,308 [main] Coordinator not recoverable: 10.13.64.118.tm0000100005
+14-09-04 18:20:20,542 [main] oracle: refreshed XAResource
+14-09-04 18:20:55,549 [main] Starting read of logfile C:\Fidevita\mioworkspace\mio\bmt.atomikos\.\tmlog4.log
+14-09-04 18:20:55,549 [main] Done read of logfile
+14-09-04 18:20:55,549 [main] Logfile closed: C:\Fidevita\mioworkspace\mio\bmt.atomikos\.\tmlog4.log
+14-09-04 18:20:55,689 [main] Coordinator not recoverable: 10.13.64.118.tm0000100006
+14-09-04 18:20:55,923 [main] oracle: refreshed XAResource
+14-09-04 18:22:10,195 [main] Starting read of logfile C:\Fidevita\mioworkspace\mio\bmt.atomikos\.\tmlog5.log
+14-09-04 18:22:10,195 [main] Done read of logfile
+14-09-04 18:22:10,195 [main] Logfile closed: C:\Fidevita\mioworkspace\mio\bmt.atomikos\.\tmlog5.log
+14-09-04 18:22:10,335 [main] Coordinator not recoverable: 10.13.64.118.tm0000100007
+14-09-04 18:22:10,569 [main] oracle: refreshed XAResource
+14-09-05 09:31:27,147 [main] Starting read of logfile C:\Fidevita\mioworkspace\mio\bmt.atomikos\.\tmlog6.log
+14-09-05 09:31:27,147 [main] Done read of logfile
+14-09-05 09:31:27,147 [main] Logfile closed: C:\Fidevita\mioworkspace\mio\bmt.atomikos\.\tmlog6.log
+14-09-05 09:31:27,287 [main] Coordinator not recoverable: 10.13.64.118.tm0000100008
+14-09-05 09:31:27,568 [main] uno: refreshed XAResource
+14-09-05 09:31:27,708 [main] Coordinator not recoverable: 10.13.64.118.tm0000100008
+14-09-05 09:31:27,724 [main] due: refreshed XAResource
+14-09-05 09:32:14,743 [main] Starting read of logfile C:\Fidevita\mioworkspace\mio\bmt.atomikos\.\tmlog7.log
+14-09-05 09:32:14,790 [main] Done read of logfile
+14-09-05 09:32:14,790 [main] Logfile closed: C:\Fidevita\mioworkspace\mio\bmt.atomikos\.\tmlog7.log
+14-09-05 09:32:14,884 [main] Coordinator not recoverable: 10.13.64.118.tm0000100009
+14-09-05 09:32:15,133 [main] uno: refreshed XAResource
+14-09-05 09:32:15,258 [main] Coordinator not recoverable: 10.13.64.118.tm0000100009
+14-09-05 09:32:15,274 [main] due: refreshed XAResource
+14-09-05 09:39:35,044 [main] Starting read of logfile C:\Fidevita\mioworkspace\mio\bmt.atomikos\.\tmlog8.log
+14-09-05 09:39:35,045 [main] Done read of logfile
+14-09-05 09:39:35,046 [main] Logfile closed: C:\Fidevita\mioworkspace\mio\bmt.atomikos\.\tmlog8.log
+14-09-05 09:39:35,141 [main] The class 'com.mysql.jdbc.Driver' specified by property 'xaDataSourceClassName' does not implement the required interface javax.jdbc.XADataSource. Please make sure the spelling is correct, and check your JDBC driver vendor's documentation.
+14-09-05 10:19:27,771 [main] Starting read of logfile C:\Fidevita\mioworkspace\mio\bmt.atomikos\.\tmlog9.log
+14-09-05 10:19:27,772 [main] Done read of logfile
+14-09-05 10:19:27,772 [main] Logfile closed: C:\Fidevita\mioworkspace\mio\bmt.atomikos\.\tmlog9.log
+14-09-05 10:20:06,195 [main] Starting read of logfile C:\Fidevita\mioworkspace\mio\bmt.atomikos\.\tmlog10.log
+14-09-05 10:20:06,196 [main] Done read of logfile
+14-09-05 10:20:06,196 [main] Logfile closed: C:\Fidevita\mioworkspace\mio\bmt.atomikos\.\tmlog10.log
